@@ -1,0 +1,11 @@
+#Compiled file
+**/target/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Privacy file
+application-dev.properties
